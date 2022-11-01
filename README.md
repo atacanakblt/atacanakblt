@@ -22,14 +22,5 @@
 
 <br />
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=atacanakblt&theme=onedark" >
-</details>
-
-<details>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atacanakblt&layout=compact" >
-</details>
 
 [linkedin]: https://www.linkedin.com/in/atacanakbulut/
